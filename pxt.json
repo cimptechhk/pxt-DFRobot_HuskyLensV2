@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "smarthon-smartcity-kit": "github:smarthon/pxt-smartcity#v0.1.51"
     },
     "files": [
         "main.blocks",
@@ -29,5 +30,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
